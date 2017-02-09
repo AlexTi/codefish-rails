@@ -5,4 +5,4 @@ This application is used for screencast tutorials about how to set up Codeship p
 
 Setup App.
 
-
+blub
